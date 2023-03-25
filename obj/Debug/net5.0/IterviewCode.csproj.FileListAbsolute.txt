@@ -1,0 +1,16 @@
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\bin\Debug\net5.0\IterviewCode.exe
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\bin\Debug\net5.0\IterviewCode.deps.json
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\bin\Debug\net5.0\IterviewCode.runtimeconfig.json
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\bin\Debug\net5.0\IterviewCode.runtimeconfig.dev.json
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\bin\Debug\net5.0\IterviewCode.dll
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\bin\Debug\net5.0\ref\IterviewCode.dll
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\bin\Debug\net5.0\IterviewCode.pdb
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\obj\Debug\net5.0\IterviewCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\obj\Debug\net5.0\IterviewCode.AssemblyInfoInputs.cache
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\obj\Debug\net5.0\IterviewCode.AssemblyInfo.cs
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\obj\Debug\net5.0\IterviewCode.csproj.CoreCompileInputs.cache
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\obj\Debug\net5.0\IterviewCode.dll
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\obj\Debug\net5.0\ref\IterviewCode.dll
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\obj\Debug\net5.0\IterviewCode.pdb
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\obj\Debug\net5.0\IterviewCode.genruntimeconfig.cache
+C:\Users\ssrat\source\repos\B19DemoCsharp\IterviewCode\obj\Debug\net5.0\IterviewCode.csproj.AssemblyReference.cache

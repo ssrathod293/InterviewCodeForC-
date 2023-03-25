@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Text;
 
-namespace IterviewCode
+namespace InterviewCode
 {
     class Program
     {
